@@ -3,6 +3,7 @@ import Link from "next/link";
 import { HeroSlideshow } from "@/components/HeroSlideshow";
 import { Reveal } from "@/components/Reveal";
 import { RevealImage } from "@/components/RevealImage";
+import { RoomCarousel } from "@/components/RoomCarousel";
 import { ServicesList } from "@/components/ServicesList";
 import { ArrowLink } from "@/components/ArrowLink";
 import { imageAt, projects } from "@/data/projects";
@@ -168,7 +169,7 @@ export default function Home() {
             Every room, <em>considered.</em>
           </Reveal>
         </div>
-        <div className="flex snap-x snap-mandatory scroll-px-[clamp(1rem,4vw,4rem)] gap-4 overflow-x-auto px-[clamp(1rem,4vw,4rem)] pb-6 [scrollbar-width:none] md:gap-6">
+        <RoomCarousel label="Rooms by Plan Interior Solution">
           {rooms.map((room, i) => (
             <Link
               key={room.image.src}
@@ -190,7 +191,7 @@ export default function Home() {
               </div>
             </Link>
           ))}
-        </div>
+        </RoomCarousel>
       </section>
 
       {/* Services */}
