@@ -1,0 +1,126 @@
+{
+  "shekhertek": [
+    {
+      "src": "/images/shekhertek/foyer-01.jpg",
+      "room": "foyer",
+      "width": 1280,
+      "height": 1066
+    },
+    {
+      "src": "/images/shekhertek/living-01.jpg",
+      "room": "living",
+      "width": 1280,
+      "height": 1066
+    },
+    {
+      "src": "/images/shekhertek/living-02.jpg",
+      "room": "living",
+      "width": 1280,
+      "height": 1066
+    },
+    {
+      "src": "/images/shekhertek/dining-01.jpg",
+      "room": "dining",
+      "width": 1280,
+      "height": 1066
+    },
+    {
+      "src": "/images/shekhertek/dining-02.jpg",
+      "room": "dining",
+      "width": 1280,
+      "height": 1066
+    },
+    {
+      "src": "/images/shekhertek/kitchen-01.jpg",
+      "room": "kitchen",
+      "width": 1280,
+      "height": 1280
+    },
+    {
+      "src": "/images/shekhertek/bedroom-01.jpg",
+      "room": "bedroom",
+      "width": 1280,
+      "height": 1280
+    },
+    {
+      "src": "/images/shekhertek/bedroom-02.jpg",
+      "room": "bedroom",
+      "width": 1280,
+      "height": 1262
+    },
+    {
+      "src": "/images/shekhertek/wardrobe-01.jpg",
+      "room": "wardrobe",
+      "width": 1280,
+      "height": 1066
+    },
+    {
+      "src": "/images/shekhertek/dressing-01.jpg",
+      "room": "dressing",
+      "width": 1280,
+      "height": 1066
+    },
+    {
+      "src": "/images/shekhertek/bath-01.jpg",
+      "room": "bath",
+      "width": 1152,
+      "height": 1280
+    }
+  ],
+  "cumilla": [
+    {
+      "src": "/images/cumilla/living-01.jpg",
+      "room": "living",
+      "width": 1280,
+      "height": 870
+    },
+    {
+      "src": "/images/cumilla/living-02.jpg",
+      "room": "living",
+      "width": 1280,
+      "height": 828
+    },
+    {
+      "src": "/images/cumilla/dining-01.jpg",
+      "room": "dining",
+      "width": 1280,
+      "height": 904
+    },
+    {
+      "src": "/images/cumilla/kitchen-01.jpg",
+      "room": "kitchen",
+      "width": 1280,
+      "height": 1072
+    },
+    {
+      "src": "/images/cumilla/bedroom-01.jpg",
+      "room": "bedroom",
+      "width": 1280,
+      "height": 906
+    },
+    {
+      "src": "/images/cumilla/bedroom-02.jpg",
+      "room": "bedroom",
+      "width": 1280,
+      "height": 988
+    },
+    {
+      "src": "/images/cumilla/wardrobe-01.jpg",
+      "room": "wardrobe",
+      "width": 1280,
+      "height": 906
+    },
+    {
+      "src": "/images/cumilla/bath-01.jpg",
+      "room": "bath",
+      "width": 1507,
+      "height": 1600
+    },
+    {
+      "src": "/images/cumilla/bath-02.jpg",
+      "room": "bath",
+      "width": 1507,
+      "height": 1600
+    }
+  ]
+}
